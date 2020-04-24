@@ -1,5 +1,6 @@
 # spring_security_filter_chain
 
+```java
 Security filter chain: [
   WebAsyncManagerIntegrationFilter
   SecurityContextPersistenceFilter
@@ -14,3 +15,4 @@ Security filter chain: [
   ExceptionTranslationFilter
   FilterSecurityInterceptor
 ]
+```
